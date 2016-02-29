@@ -3,3 +3,7 @@ body {
     font-size: 1.2em;
     background-color:"#FFFFFF";
 }
+h1 {
+    font-family: Andale Mono;
+    font-variant: Small-caps;
+}
