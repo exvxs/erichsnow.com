@@ -1,9 +1,22 @@
 body {
-    font-family: Andale Mono;
-    font-size: 1.2em;
-    background-color:"#FFFFFF";
+    font-size: 1.3em;
+    background-color:#f0f0f0;
+    color: #333333;
 }
 h1 {
-    font-family: Andale Mono;
     font-variant: Small-caps;
+}
+.container {
+    font-family: Helvetica, Geneva, sans-serif;
+}
+.upper {
+    font-family: Helvetica, Geneva, sans-serif;
+}
+.links {
+}
+.lower {
+    font-family: Neuton, Trebuchet MS, Times New Roman;
+}
+.mono {
+    font-family: Andale Mono, sans-serif;
 }
