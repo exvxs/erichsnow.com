@@ -1,13 +1,16 @@
 body {
-    font-size: 1.3em;
-    background-color:#f0f0f0;
-    color: #333333;
+    background-color: #f0f0f0
 }
 h1 {
     font-variant: Small-caps;
 }
 .container {
     font-family: Helvetica, Geneva, sans-serif;
+    font-size: 1.3em;
+    color: #333333;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .upper {
     font-family: Helvetica, Geneva, sans-serif;
