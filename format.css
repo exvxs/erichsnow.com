@@ -3,6 +3,7 @@ body {
 }
 h1 {
     font-variant: Small-caps;
+    font-size: 2em;
 }
 .container {
     font-family: Helvetica, Geneva, sans-serif;
@@ -15,11 +16,13 @@ h1 {
 }
 .upper {
     font-family: Helvetica, Geneva, sans-serif;
+    font-size: 1.3em;
 }
 .links {
     font-size: 1.3em;
 }
 .lower {
+    font-size: 1em;
 }
 .mono {
     font-family: Andale Mono, Misc Fixed; sans-serif;
