@@ -25,5 +25,5 @@ h1 {
     font-size: 1em;
 }
 .mono {
-    font-family: Andale Mono, Misc Fixed; sans-serif;
+    font-family: Andale Mono, monospace;
 }
