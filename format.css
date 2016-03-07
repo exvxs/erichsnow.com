@@ -29,4 +29,6 @@ h1 {
 }
 .center-align {
     text-align: Center;
+    font-family: Andale Mono, monospace;
+    list-style-type: none;
 }
