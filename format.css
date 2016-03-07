@@ -27,3 +27,6 @@ h1 {
 .mono {
     font-family: Andale Mono, monospace;
 }
+.center-align {
+    text-align: Center;
+}
