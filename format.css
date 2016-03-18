@@ -13,6 +13,8 @@ h1 {
     max-width: 750px;
     margin-left: auto;
     margin-right: auto;
+    list-style-type:none;
+
 }
 .upper {
     font-family: Helvetica, Geneva, sans-serif;
