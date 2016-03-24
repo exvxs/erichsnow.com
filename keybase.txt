@@ -1,56 +1,48 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
-{\fonttbl\f0\fnil\fcharset0 AndaleMono;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\ri0\partightenfactor0
+I hereby claim:
 
-\f0\fs24 \cf0 I hereby claim:\
-\
-  * I am an admin of https://erichsnow.com\
-  * I am exvxs (https://keybase.io/exvxs) on keybase.\
-  * I have a public key ASAubxvfO22GeESCxhaDCDxojagMnMvy1RrJTfwGfJU5vQo\
-\
-To do so, I am signing this object:\
-\
-\{\
-    "body": \{\
-        "key": \{\
-            "eldest_kid": "01202e6f1bdf3b6d86784482c61683083c688da80c9ccbf2d51ac94dfc067c9539bd0a",\
-            "host": "keybase.io",\
-            "kid": "01202e6f1bdf3b6d86784482c61683083c688da80c9ccbf2d51ac94dfc067c9539bd0a",\
-            "uid": "7d0bd383e1ce016c21ee6df0fa870c19",\
-            "username": "exvxs"\
-        \},\
-        "service": \{\
-            "hostname": "erichsnow.com",\
-            "protocol": "https:"\
-        \},\
-        "type": "web_service_binding",\
-        "version": 1\
-    \},\
-    "client": \{\
-        "name": "keybase.io go client",\
-        "version": "1.0.14"\
-    \},\
-    "ctime": 1458777268,\
-    "expire_in": 504576000,\
-    "merkle_root": \{\
-        "ctime": 1458777165,\
-        "hash": "4db5b358ceae87e9a5b6f2e34bc6a99f3d3b55d1842fe9138b95cb30d3e05f81e945dec0c06c88dfe27d52ebae028db19c561144938314b99604e3af0d3ebfea",\
-        "seqno": 420127\
-    \},\
-    "prev": "c444cb709449b8a91ffdf2c7743a7215cac624dd287d77a96be3aa9079fda21e",\
-    "seqno": 8,\
-    "tag": "signature"\
-\}\
-\
-which yields the signature:\
-\
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLm8b3ztthnhEgsYWgwg8aI2oDJzL8tUayU38BnyVOb0Kp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmU2ZjFiZGYzYjZkODY3ODQ0ODJjNjE2ODMwODNjNjg4ZGE4MGM5Y2NiZjJkNTFhYzk0ZGZjMDY3Yzk1MzliZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmU2ZjFiZGYzYjZkODY3ODQ0ODJjNjE2ODMwODNjNjg4ZGE4MGM5Y2NiZjJkNTFhYzk0ZGZjMDY3Yzk1MzliZDBhIiwidWlkIjoiN2QwYmQzODNlMWNlMDE2YzIxZWU2ZGYwZmE4NzBjMTkiLCJ1c2VybmFtZSI6ImV4dnhzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJlcmljaHNub3cuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTg3NzcyNjgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODc3NzE2NSwiaGFzaCI6IjRkYjViMzU4Y2VhZTg3ZTlhNWI2ZjJlMzRiYzZhOTlmM2QzYjU1ZDE4NDJmZTkxMzhiOTVjYjMwZDNlMDVmODFlOTQ1ZGVjMGMwNmM4OGRmZTI3ZDUyZWJhZTAyOGRiMTljNTYxMTQ0OTM4MzE0Yjk5NjA0ZTNhZjBkM2ViZmVhIiwic2Vxbm8iOjQyMDEyN30sInByZXYiOiJjNDQ0Y2I3MDk0NDliOGE5MWZmZGYyYzc3NDNhNzIxNWNhYzYyNGRkMjg3ZDc3YTk2YmUzYWE5MDc5ZmRhMjFlIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAM3Xu6GOMAHszXKlyryV4PJJU4PK5FNdXyHaMU9KIN9fxyDkHDLqWbmKCpviWT2yZt+tcqrwMFTGMEiaUU1YMCahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B\
-\
-And finally, I am proving ownership of this host by posting or\
-appending to this document.\
-\
-View my publicly-auditable identity here: https://keybase.io/exvxs\
+  * I am an admin of https://erichsnow.com
+  * I am exvxs (https://keybase.io/exvxs) on keybase.
+  * I have a public key ASAubxvfO22GeESCxhaDCDxojagMnMvy1RrJTfwGfJU5vQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202e6f1bdf3b6d86784482c61683083c688da80c9ccbf2d51ac94dfc067c9539bd0a",
+            "host": "keybase.io",
+            "kid": "01202e6f1bdf3b6d86784482c61683083c688da80c9ccbf2d51ac94dfc067c9539bd0a",
+            "uid": "7d0bd383e1ce016c21ee6df0fa870c19",
+            "username": "exvxs"
+        },
+        "service": {
+            "hostname": "erichsnow.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1458777268,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458777165,
+        "hash": "4db5b358ceae87e9a5b6f2e34bc6a99f3d3b55d1842fe9138b95cb30d3e05f81e945dec0c06c88dfe27d52ebae028db19c561144938314b99604e3af0d3ebfea",
+        "seqno": 420127
+    },
+    "prev": "c444cb709449b8a91ffdf2c7743a7215cac624dd287d77a96be3aa9079fda21e",
+    "seqno": 8,
+    "tag": "signature"
 }
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLm8b3ztthnhEgsYWgwg8aI2oDJzL8tUayU38BnyVOb0Kp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmU2ZjFiZGYzYjZkODY3ODQ0ODJjNjE2ODMwODNjNjg4ZGE4MGM5Y2NiZjJkNTFhYzk0ZGZjMDY3Yzk1MzliZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmU2ZjFiZGYzYjZkODY3ODQ0ODJjNjE2ODMwODNjNjg4ZGE4MGM5Y2NiZjJkNTFhYzk0ZGZjMDY3Yzk1MzliZDBhIiwidWlkIjoiN2QwYmQzODNlMWNlMDE2YzIxZWU2ZGYwZmE4NzBjMTkiLCJ1c2VybmFtZSI6ImV4dnhzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJlcmljaHNub3cuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTg3NzcyNjgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODc3NzE2NSwiaGFzaCI6IjRkYjViMzU4Y2VhZTg3ZTlhNWI2ZjJlMzRiYzZhOTlmM2QzYjU1ZDE4NDJmZTkxMzhiOTVjYjMwZDNlMDVmODFlOTQ1ZGVjMGMwNmM4OGRmZTI3ZDUyZWJhZTAyOGRiMTljNTYxMTQ0OTM4MzE0Yjk5NjA0ZTNhZjBkM2ViZmVhIiwic2Vxbm8iOjQyMDEyN30sInByZXYiOiJjNDQ0Y2I3MDk0NDliOGE5MWZmZGYyYzc3NDNhNzIxNWNhYzYyNGRkMjg3ZDc3YTk2YmUzYWE5MDc5ZmRhMjFlIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAM3Xu6GOMAHszXKlyryV4PJJU4PK5FNdXyHaMU9KIN9fxyDkHDLqWbmKCpviWT2yZt+tcqrwMFTGMEiaUU1YMCahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/exvxs
